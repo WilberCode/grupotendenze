@@ -1,0 +1,127 @@
+{
+  "assets/font/Akrobat-Bold.woff": {
+    "file": "font/Akrobat-Bold.woff",
+    "src": "assets/font/Akrobat-Bold.woff"
+  },
+  "assets/font/Akrobat-Regular.woff": {
+    "file": "font/Akrobat-Regular.woff",
+    "src": "assets/font/Akrobat-Regular.woff"
+  },
+  "assets/font/Akrobat-SemiBold.woff": {
+    "file": "font/Akrobat-SemiBold.woff",
+    "src": "assets/font/Akrobat-SemiBold.woff"
+  },
+  "assets/font/fontello.eot": {
+    "file": "font/fontello.eot",
+    "src": "assets/font/fontello.eot"
+  },
+  "assets/font/fontello.svg": {
+    "file": "font/fontello.svg",
+    "src": "assets/font/fontello.svg"
+  },
+  "assets/font/fontello.ttf": {
+    "file": "font/fontello.ttf",
+    "src": "assets/font/fontello.ttf"
+  },
+  "assets/img/heart.jpg": {
+    "file": "img/heart.jpg",
+    "src": "assets/img/heart.jpg"
+  },
+  "assets/img/te-invitamos.jpg": {
+    "file": "img/te-invitamos.jpg",
+    "src": "assets/img/te-invitamos.jpg"
+  },
+  "assets/svg/assessment.svg": {
+    "file": "svg/assessment.svg",
+    "src": "assets/svg/assessment.svg"
+  },
+  "assets/svg/bio-oil-logo.svg": {
+    "file": "svg/bio-oil-logo.svg",
+    "src": "assets/svg/bio-oil-logo.svg"
+  },
+  "assets/svg/close.svg": {
+    "file": "svg/close.svg",
+    "src": "assets/svg/close.svg"
+  },
+  "assets/svg/comillas.svg": {
+    "file": "svg/comillas.svg",
+    "src": "assets/svg/comillas.svg"
+  },
+  "assets/svg/down-active.svg": {
+    "file": "svg/down-active.svg",
+    "src": "assets/svg/down-active.svg"
+  },
+  "assets/svg/down-disable.svg": {
+    "file": "svg/down-disable.svg",
+    "src": "assets/svg/down-disable.svg"
+  },
+  "assets/svg/down.svg": {
+    "file": "svg/down.svg",
+    "src": "assets/svg/down.svg"
+  },
+  "assets/svg/facebook-black.svg": {
+    "file": "svg/facebook-black.svg",
+    "src": "assets/svg/facebook-black.svg"
+  },
+  "assets/svg/facebook.svg": {
+    "file": "svg/facebook.svg",
+    "src": "assets/svg/facebook.svg"
+  },
+  "assets/svg/hand.svg": {
+    "file": "svg/hand.svg",
+    "src": "assets/svg/hand.svg"
+  },
+  "assets/svg/home.svg": {
+    "file": "svg/home.svg",
+    "src": "assets/svg/home.svg"
+  },
+  "assets/svg/icons.svg": {
+    "file": "svg/icons.svg",
+    "src": "assets/svg/icons.svg"
+  },
+  "assets/svg/instagram-black.svg": {
+    "file": "svg/instagram-black.svg",
+    "src": "assets/svg/instagram-black.svg"
+  },
+  "assets/svg/instagram.svg": {
+    "file": "svg/instagram.svg",
+    "src": "assets/svg/instagram.svg"
+  },
+  "assets/svg/menu.svg": {
+    "file": "svg/menu.svg",
+    "src": "assets/svg/menu.svg"
+  },
+  "assets/svg/next.svg": {
+    "file": "svg/next.svg",
+    "src": "assets/svg/next.svg"
+  },
+  "assets/svg/search.svg": {
+    "file": "svg/search.svg",
+    "src": "assets/svg/search.svg"
+  },
+  "assets/svg/triangle.svg": {
+    "file": "svg/triangle.svg",
+    "src": "assets/svg/triangle.svg"
+  },
+  "main.css": {
+    "file": "css/main.css",
+    "src": "main.css"
+  },
+  "main.js": {
+    "assets": [
+      "font/Akrobat-Regular.woff",
+      "font/Akrobat-SemiBold.woff",
+      "font/Akrobat-Bold.woff",
+      "font/fontello.eot",
+      "font/fontello.ttf",
+      "font/fontello.svg",
+      "svg/search.svg"
+    ],
+    "css": [
+      "css/main.css"
+    ],
+    "file": "js/main.js",
+    "isEntry": true,
+    "src": "main.js"
+  }
+}
